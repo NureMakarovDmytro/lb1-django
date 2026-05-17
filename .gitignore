@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+.env
+articles_project/
+~$*.docx
